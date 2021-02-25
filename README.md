@@ -3,3 +3,4 @@
 OLA BEM VINDO AO LIVRO DE RECEITAS
 
 - Strogonoff de frango
+- Strogonoff de carne
